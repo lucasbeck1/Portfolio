@@ -155,9 +155,11 @@ img {
   width: 100%;
   height: 100vh;
 
-  /* background-image: url("https://d3iy0wirzdn0f1.cloudfront.net/wp-content/uploads/2020/03/15205829/maxres.jpg"); */
-  /* background-image: url("https://cdn.pixabay.com/photo/2014/07/31/23/15/apple-407134_960_720.jpg"); */
-  background-image: url("https://cdn.pixabay.com/photo/2013/12/23/17/12/work-space-232985_960_720.jpg");
+  background-image: url("https://images.unsplash.com/photo-1578091879915-33ee869e2cd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1602&q=80");
+  background-image: url("https://images.unsplash.com/photo-1612832988915-703f0eb9e437?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80");
+  background-image: url("https://images.unsplash.com/photo-1594031245755-1ac99bbc7a3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80");
+  background-image: url("https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80");
+  
 
   background-repeat: no-repeat;
   background-size: cover;
