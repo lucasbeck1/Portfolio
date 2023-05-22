@@ -154,14 +154,32 @@ img {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(62deg, #3572af 0%, #362646 100%);
+
+  /* background-image: url("https://d3iy0wirzdn0f1.cloudfront.net/wp-content/uploads/2020/03/15205829/maxres.jpg"); */
+  /* background-image: url("https://cdn.pixabay.com/photo/2014/07/31/23/15/apple-407134_960_720.jpg"); */
+  background-image: url("https://cdn.pixabay.com/photo/2013/12/23/17/12/work-space-232985_960_720.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover
+}
+
+.welcome-section div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(4px);
+  width: 100%;
+  height: 100%;
 }
 
 .welcome-section > p {
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
-  color: var(--main-red);
+  color: var(--main-white);
 }
 
 /* Projects section */
